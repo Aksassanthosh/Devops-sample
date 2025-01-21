@@ -25,7 +25,7 @@ const Cardo = () => {
 
     return (
         <div style={{ padding: '20px' }}>
-            <h1>AXIOS CARD LIST</h1>
+            <h1>AXIOS CARD LIST of students</h1>
             {loading ? (
                 <Typography variant="h6" align="center">Loading...</Typography>
             ) : (
